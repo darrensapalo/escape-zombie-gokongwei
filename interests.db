@@ -1,0 +1,13 @@
+// Format
+// Location ID` Name of Interest Point` Description` item_req` is Discovered
+// isDiscovered is not yet implemented
+
+// Gokungwei
+1` "Research Labs"` "A high-end research lab for science and technology."` 51` -1, 1
+1` "Study Hall"` "A quiet Study Hall with some tables and benches disorganized with trails of dirt everywhere."` -1` 1
+1` "stairs"` "A deserted set of stairs leading to the Research Labs on the third floor."` -1` 1
+1` "tables"` "The tables were clean of items. There was nothing to be found."` -1` 1
+1` "benches"` "Other than being unarranged on the floor, the benches were clean."` -1` 1
+1` "lockers"` "Most of the lockers were closed while the rest were broken and opened. You can find a Keyboard in one of them."` -1` 1
+// Andrew Building
+1` "elevator"` "Finally working, the elevator leads to the Study Hall on the 15th floor and the Canteen on the 6th floor."` 0` 0

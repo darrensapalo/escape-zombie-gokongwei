@@ -1,0 +1,11 @@
+// Format
+// Item ID, Name, Description, Damage, Default Durability
+1` "Ball-pen"` "A sturby black ball-pen. You can make beautiful essays with this."` 1` 5
+2` "Keyboard"` "A dark keyboard with missing keys. Useful for bashing against zombies."` 2` 10
+3` "Stored Value LRT Card"` "The key to freedom and peace. Allows you to leave taft."` 0` 1
+
+// Keys etc.
+50` "Proof of Electricity"` "This item allows you to use the elevators in the different buildings."` 0` 1
+51` "Keys to Research Labs"` "This item allows you to access the Gokungwei Research labs found on the fourth floor."` 0` 1
+52` "Keys to Accounting Office"` "This item allows you to access the Accounting Office found on the La Salle building."` 0` 1
+53` "Keys to Registrar's Office"` "This item allows you to access the Registrar's Office found on the La Salle building."` 0` 1

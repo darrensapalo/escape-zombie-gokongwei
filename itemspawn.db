@@ -1,0 +1,5 @@
+// Location ID, "name of interest point", Item ID, Amount
+// To attach item to map itself, set name to "!map"
+1` "lockers"` 1` 1
+1` "stairs"` 2` 1
+1` "!map"` 3` 1

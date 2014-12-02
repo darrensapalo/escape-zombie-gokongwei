@@ -1,0 +1,5 @@
+// Format
+// Mob ID, Mob Name, Mob Description, HP, damage, weakness, strength, rate of encounter
+1` "Frosh zombie student"` "Pretty weak to average. Failed most of his courses."` 1` 1` 1` -1` 500
+3` "Professor Echavez"` "I will laugh at your failure as you beg on your knees."` 15` 1` -1` -1` 50
+2` "Geeky zombie student"` "Nerdy glasses make him stronger than the rest."` 3` 1` 1` -1` 250
